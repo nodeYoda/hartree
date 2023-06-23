@@ -1,1 +1,2 @@
-pandas==2.0.2
+apache_beam[dataframe]==2.48.0
+numpy==1.24.3
